@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="112"
+   height="48"
+   viewBox="0 0 112 48"
+   fill="none"
+   version="1.1"
+   id="svg46"
+   sodipodi:docname="background.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs50" />
+  <sodipodi:namedview
+     id="namedview48"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="7.7781746"
+     inkscape:cx="67.625121"
+     inkscape:cy="28.541401"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg46" />
+  <path
+     d="M112 32C112 34.1012 111.586 36.1817 110.782 38.1229C109.978 40.0641 108.799 41.828 107.314 43.3137C105.828 44.7994 104.064 45.978 102.123 46.7821C100.182 47.5861 98.1011 48 96 48L96 32H112Z"
+     fill="white"
+     id="mask-bottomright" />
+  <rect
+     x="80"
+     y="32"
+     width="16"
+     height="16"
+     fill="white"
+     id="mask-bottom" />
+  <path
+     d="M80 48C75.7565 48 71.6869 46.3143 68.6863 43.3137C65.6857 40.3131 64 36.2435 64 32L80 32L80 48Z"
+     fill="white"
+     id="mask-bottomleft" />
+  <rect
+     x="96"
+     y="16"
+     width="16"
+     height="16"
+     fill="white"
+     id="mask-right" />
+  <rect
+     x="80"
+     y="16"
+     width="16"
+     height="16"
+     fill="white"
+     id="mask-center" />
+  <rect
+     x="64"
+     y="16"
+     width="16"
+     height="16"
+     fill="white"
+     id="mask-left" />
+  <path
+     d="M96 0C100.243 5.06027e-08 104.313 1.6857 107.314 4.68628C110.314 7.68685 112 11.7565 112 16L96 16V0Z"
+     fill="white"
+     id="mask-topright" />
+  <rect
+     x="80"
+     width="16"
+     height="16"
+     fill="white"
+     id="mask-top" />
+  <path
+     d="M64 16C64 11.7565 65.6857 7.68688 68.6863 4.6863C71.6869 1.68572 75.7565 8.04318e-06 80 0L80 16L64 16Z"
+     fill="white"
+     id="mask-topleft" />
+  <path
+     d="M48 32C48 34.1012 47.5861 36.1817 46.7821 38.1229C45.978 40.0641 44.7994 41.828 43.3137 43.3137C41.828 44.7994 40.0641 45.978 38.1229 46.7821C36.1817 47.5861 34.1011 48 32 48L32 32H48Z"
+     fill="#202124"
+     id="bottomright" />
+  <rect
+     x="16"
+     y="32"
+     width="16"
+     height="16"
+     fill="#202124"
+     id="bottom" />
+  <path
+     d="M16 48C11.7565 48 7.68687 46.3143 4.68629 43.3137C1.68571 40.3131 6.40745e-07 36.2435 0 32L16 32L16 48Z"
+     fill="#202124"
+     id="bottomleft" />
+  <rect
+     x="32"
+     y="16"
+     width="16"
+     height="16"
+     fill="#202124"
+     id="right" />
+  <rect
+     x="16"
+     y="16"
+     width="16"
+     height="16"
+     fill="#202124"
+     id="center" />
+  <rect
+     y="16"
+     width="16"
+     height="16"
+     fill="#202124"
+     id="left" />
+  <path
+     d="M32 0C36.2435 5.06027e-08 40.3131 1.6857 43.3137 4.68628C46.3143 7.68685 48 11.7565 48 16L32 16V0Z"
+     fill="#202124"
+     id="topright" />
+  <rect
+     x="16"
+     width="16"
+     height="16"
+     fill="#202124"
+     id="top" />
+  <path
+     d="M0 16C3.70975e-07 11.7565 1.68571 7.68688 4.68628 4.6863C7.68686 1.68572 11.7565 8.04318e-06 16 0L16 16L0 16Z"
+     fill="#202124"
+     id="topleft" />
+  <rect
+     y="23"
+     width="16"
+     height="2"
+     fill="#8AB4F8"
+     id="hint-left-margin" />
+  <rect
+     x="23"
+     y="32"
+     width="2"
+     height="16"
+     fill="#8AB4F8"
+     id="hint-bottom-margin" />
+  <rect
+     x="32"
+     y="23"
+     width="16"
+     height="2"
+     fill="#8AB4F8"
+     id="hint-right-margin" />
+  <rect
+     x="23"
+     width="2"
+     height="16"
+     fill="#8AB4F8"
+     id="hint-top-margin" />
+</svg>

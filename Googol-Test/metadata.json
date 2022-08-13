@@ -1,0 +1,38 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "askarbink29@gmail.com",
+                "Name": "Askar Arslanov",
+                "Name[bg]": "Аскар Арсланов",
+                "Name[ru]": "Аскар Арсланов",
+                "Name[uk]": "Аскар Арсланов"
+            }
+        ],
+        "Category": "",
+        "Description": "Theme inspired by Google design",
+        "Description[ru]": "Тема, вдохновлённая дизайном Google",
+        "Description[x-test]": "xxTheme inspired by Google designxx",
+        "EnabledByDefault": true,
+        "Id": "Google-Dark",
+        "License": "cc0",
+        "Name": "Google Dark",
+        "Name[az]": "Google Qara",
+        "Name[bg]": "Google Тъмен",
+        "Name[cs]": "Google Tmavé",
+        "Name[en_GB]": "Google Dark",
+        "Name[fi]": "Tumma Google",
+        "Name[fr]": "Google Sombre",
+        "Name[id]": "Google Gelap",
+        "Name[nl]": "Google Dark",
+        "Name[nn]": "Google mørk",
+        "Name[ru]": "Google, тёмный вариант",
+        "Name[sv]": "Google mörk",
+        "Name[uk]": "Темна Google",
+        "Name[vi]": "Google Tối",
+        "Name[x-test]": "xxGoogle Darkxx",
+        "Version": "1.0",
+        "Website": "https://t.me/AskarBink"
+    },
+    "X-Plasma-API": "5.0"
+}
