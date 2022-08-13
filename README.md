@@ -3,7 +3,7 @@ KDE Theme Pack Inspired by Google Design
 
 ### Style
 - Light / Dark
-- Sharp / Rounded
+- Sharp / SemiRounded / Rounded
 - Solid / Transparent
 - Bordered / Flat
 
