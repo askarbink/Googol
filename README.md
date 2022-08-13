@@ -16,7 +16,7 @@ KDE Theme Pack Inspired by Google Design
 - Roboto Mono
 
 ### Icons
-- Papirus
+- Papirus (https://store.kde.org/p/1166289)
 
 ### Cursors
-- Bibata
+- Bibata (https://store.kde.org/p/1197198)
