@@ -24,189 +24,180 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="9.9236009"
-     inkscape:cx="65.046953"
-     inkscape:cy="4.4842594"
+     inkscape:zoom="7.0170455"
+     inkscape:cx="66.338462"
+     inkscape:cy="0.64129555"
      inkscape:window-width="1366"
-     inkscape:window-height="744"
+     inkscape:window-height="694"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg56" />
   <path
      d="M88 16C88 17.0506 87.7931 18.0909 87.391 19.0615C86.989 20.0321 86.3997 20.914 85.6569 21.6569C84.914 22.3997 84.0321 22.989 83.0615 23.391C82.0909 23.7931 81.0506 24 80 24L80 16H88Z"
-     fill="#8AB4F8"
-     fill-opacity="0.211765"
+     fill="#364051"
      id="selected+hover-bottomright" />
   <rect
      x="72"
      y="16"
      width="8"
      height="8"
-     fill="#8AB4F8"
-     fill-opacity="0.211765"
+     fill="#364051"
      id="selected+hover-bottom" />
   <path
      d="M72 24C69.8783 24 67.8434 23.1571 66.3431 21.6569C64.8429 20.1566 64 18.1217 64 16L72 16L72 24Z"
-     fill="#8AB4F8"
-     fill-opacity="0.211765"
+     fill="#364051"
      id="selected+hover-bottomleft" />
   <rect
      x="80"
      y="8"
      width="8"
      height="8"
-     fill="#8AB4F8"
-     fill-opacity="0.211765"
+     fill="#364051"
      id="selected+hover-right" />
   <rect
      x="72"
      y="8"
      width="8"
      height="8"
-     fill="#8AB4F8"
-     fill-opacity="0.211765"
+     fill="#364051"
      id="selected+hover-center" />
   <rect
      x="64"
      y="8"
      width="8"
      height="8"
-     fill="#8AB4F8"
-     fill-opacity="0.211765"
+     fill="#364051"
      id="selected+hover-left" />
   <path
      d="M80 0C82.1217 2.53014e-08 84.1566 0.842852 85.6568 2.34314C87.1571 3.84342 88 5.87825 88 7.99998L80 8V0Z"
-     fill="#8AB4F8"
-     fill-opacity="0.211765"
+     fill="#364051"
      id="selected+hover-topright" />
   <rect
      x="72"
      width="8"
      height="8"
-     fill="#8AB4F8"
-     fill-opacity="0.211765"
+     fill="#364051"
      id="selected+hover-top" />
   <path
      d="M64 8C64 5.87827 64.8429 3.84344 66.3431 2.34315C67.8434 0.84286 69.8783 4.02159e-06 72 0L72 8L64 8Z"
-     fill="#8AB4F8"
-     fill-opacity="0.211765"
+     fill="#364051"
      id="selected+hover-topleft" />
   <path
      d="M56 16C56 17.0506 55.7931 18.0909 55.391 19.0615C54.989 20.0321 54.3997 20.914 53.6569 21.6569C52.914 22.3997 52.0321 22.989 51.0615 23.391C50.0909 23.7931 49.0506 24 48 24L48 16H56Z"
-     fill="#8AB4F8"
-     fill-opacity="0.0431373"
+     fill="#2E343E"
+     fill-opacity="0.8"
      id="selected-bottomright" />
   <rect
      x="40"
      y="16"
      width="8"
      height="8"
-     fill="#8AB4F8"
-     fill-opacity="0.0431373"
+     fill="#2E343E"
+     fill-opacity="0.8"
      id="selected-bottom" />
   <path
      d="M40 24C37.8783 24 35.8434 23.1571 34.3431 21.6569C32.8429 20.1566 32 18.1217 32 16L40 16L40 24Z"
-     fill="#8AB4F8"
-     fill-opacity="0.0431373"
+     fill="#2E343E"
+     fill-opacity="0.8"
      id="selected-bottomleft" />
   <rect
      x="48"
      y="8"
      width="8"
      height="8"
-     fill="#8AB4F8"
-     fill-opacity="0.0431373"
+     fill="#2E343E"
+     fill-opacity="0.8"
      id="selected-right" />
   <rect
      x="40"
      y="8"
      width="8"
      height="8"
-     fill="#8AB4F8"
-     fill-opacity="0.0431373"
-     id="selected-center" />
+     fill="#2E343E"
+     fill-opacity="0.8"
+     id="rect28" />
   <rect
      x="32"
      y="8"
      width="8"
      height="8"
-     fill="#8AB4F8"
-     fill-opacity="0.0431373"
+     fill="#2E343E"
+     fill-opacity="0.8"
      id="selected-left" />
   <path
      d="M48 0C50.1217 2.53014e-08 52.1566 0.842852 53.6568 2.34314C55.1571 3.84342 56 5.87825 56 7.99998L48 8V0Z"
-     fill="#8AB4F8"
-     fill-opacity="0.0431373"
+     fill="#2E343E"
+     fill-opacity="0.8"
      id="selected-topright" />
   <rect
      x="40"
      width="8"
      height="8"
-     fill="#8AB4F8"
-     fill-opacity="0.0431373"
+     fill="#2E343E"
+     fill-opacity="0.8"
      id="selected-top" />
   <path
      d="M32 8C32 5.87827 32.8429 3.84344 34.3431 2.34315C35.8434 0.84286 37.8783 4.02159e-06 40 0L40 8L32 8Z"
-     fill="#8AB4F8"
-     fill-opacity="0.0431373"
+     fill="#2E343E"
+     fill-opacity="0.8"
      id="selected-topleft" />
   <path
      d="M24 16C24 17.0506 23.7931 18.0909 23.391 19.0615C22.989 20.0321 22.3997 20.914 21.6569 21.6569C20.914 22.3997 20.0321 22.989 19.0615 23.391C18.0909 23.7931 17.0506 24 16 24L16 16H24Z"
-     fill="white"
-     fill-opacity="0.0352941"
+     fill="#3A3C3E"
+     fill-opacity="0.3"
      id="hover-bottomright" />
   <rect
      x="8"
      y="16"
      width="8"
      height="8"
-     fill="white"
-     fill-opacity="0.0352941"
+     fill="#3A3C3E"
+     fill-opacity="0.3"
      id="hover-bottom" />
   <path
      d="M8 24C5.87827 24 3.84344 23.1571 2.34315 21.6569C0.842855 20.1566 3.20373e-07 18.1217 0 16L8 16L8 24Z"
-     fill="white"
-     fill-opacity="0.0352941"
+     fill="#3A3C3E"
+     fill-opacity="0.3"
      id="hover-bottomleft" />
   <rect
      x="16"
      y="8"
      width="8"
      height="8"
-     fill="white"
-     fill-opacity="0.0352941"
+     fill="#3A3C3E"
+     fill-opacity="0.3"
      id="hover-right" />
   <rect
      x="8"
      y="8"
      width="8"
      height="8"
-     fill="white"
-     fill-opacity="0.0352941"
+     fill="#3A3C3E"
+     fill-opacity="0.3"
      id="hover-center" />
   <rect
      y="8"
      width="8"
      height="8"
-     fill="white"
-     fill-opacity="0.0352941"
+     fill="#3A3C3E"
+     fill-opacity="0.3"
      id="hover-left" />
   <path
      d="M16 0C18.1217 2.53014e-08 20.1566 0.842852 21.6568 2.34314C23.1571 3.84342 24 5.87825 24 7.99998L16 8V0Z"
-     fill="white"
-     fill-opacity="0.0352941"
+     fill="#3A3C3E"
+     fill-opacity="0.3"
      id="hover-topright" />
   <rect
      x="8"
      width="8"
      height="8"
-     fill="white"
-     fill-opacity="0.0352941"
+     fill="#3A3C3E"
+     fill-opacity="0.3"
      id="hover-top" />
   <path
      d="M0 8C1.85487e-07 5.87827 0.842853 3.84344 2.34314 2.34315C3.84343 0.84286 5.87826 4.02159e-06 7.99998 0L8 8L0 8Z"
-     fill="white"
-     fill-opacity="0.0352941"
+     fill="#3A3C3E"
+     fill-opacity="0.3"
      id="hover-topleft" />
 </svg>
