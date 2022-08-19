@@ -37,7 +37,7 @@
      d="M88 16C88 17.0506 87.7931 18.0909 87.391 19.0615C86.989 20.0321 86.3997 20.914 85.6569 21.6569C84.914 22.3997 84.0321 22.989 83.0615 23.391C82.0909 23.7931 81.0506 24 80 24L80 16H88Z"
      fill="#8AB4F8"
      fill-opacity="0.211765"
-     id="hover_selected-bottomright" />
+     id="selected+hover-bottomright" />
   <rect
      x="72"
      y="16"
@@ -45,12 +45,12 @@
      height="8"
      fill="#8AB4F8"
      fill-opacity="0.211765"
-     id="hover_selected-bottom" />
+     id="selected+hover-bottom" />
   <path
      d="M72 24C69.8783 24 67.8434 23.1571 66.3431 21.6569C64.8429 20.1566 64 18.1217 64 16L72 16L72 24Z"
      fill="#8AB4F8"
      fill-opacity="0.211765"
-     id="hover_selected-bottomleft" />
+     id="selected+hover-bottomleft" />
   <rect
      x="80"
      y="8"
@@ -58,7 +58,7 @@
      height="8"
      fill="#8AB4F8"
      fill-opacity="0.211765"
-     id="hover_selected-right" />
+     id="selected+hover-right" />
   <rect
      x="72"
      y="8"
@@ -66,7 +66,7 @@
      height="8"
      fill="#8AB4F8"
      fill-opacity="0.211765"
-     id="hover_selected-center" />
+     id="selected+hover-center" />
   <rect
      x="64"
      y="8"
@@ -74,24 +74,24 @@
      height="8"
      fill="#8AB4F8"
      fill-opacity="0.211765"
-     id="hover_selected-left" />
+     id="selected+hover-left" />
   <path
      d="M80 0C82.1217 2.53014e-08 84.1566 0.842852 85.6568 2.34314C87.1571 3.84342 88 5.87825 88 7.99998L80 8V0Z"
      fill="#8AB4F8"
      fill-opacity="0.211765"
-     id="hover_selected-topright" />
+     id="selected+hover-topright" />
   <rect
      x="72"
      width="8"
      height="8"
      fill="#8AB4F8"
      fill-opacity="0.211765"
-     id="hover_selected-top" />
+     id="selected+hover-top" />
   <path
      d="M64 8C64 5.87827 64.8429 3.84344 66.3431 2.34315C67.8434 0.84286 69.8783 4.02159e-06 72 0L72 8L64 8Z"
      fill="#8AB4F8"
      fill-opacity="0.211765"
-     id="hover_selected-topleft" />
+     id="selected+hover-topleft" />
   <path
      d="M56 16C56 17.0506 55.7931 18.0909 55.391 19.0615C54.989 20.0321 54.3997 20.914 53.6569 21.6569C52.914 22.3997 52.0321 22.989 51.0615 23.391C50.0909 23.7931 49.0506 24 48 24L48 16H56Z"
      fill="#8AB4F8"
