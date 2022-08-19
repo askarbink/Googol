@@ -25,8 +25,8 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="7.0170455"
-     inkscape:cx="66.338462"
-     inkscape:cy="0.64129555"
+     inkscape:cx="49.237247"
+     inkscape:cy="6.0566801"
      inkscape:window-width="1366"
      inkscape:window-height="694"
      inkscape:window-x="0"
@@ -85,7 +85,7 @@
      id="selected+hover-topleft" />
   <path
      d="M56 16C56 17.0506 55.7931 18.0909 55.391 19.0615C54.989 20.0321 54.3997 20.914 53.6569 21.6569C52.914 22.3997 52.0321 22.989 51.0615 23.391C50.0909 23.7931 49.0506 24 48 24L48 16H56Z"
-     fill="#2E343E"
+     fill="#25282F"
      fill-opacity="0.8"
      id="selected-bottomright" />
   <rect
@@ -93,12 +93,12 @@
      y="16"
      width="8"
      height="8"
-     fill="#2E343E"
+     fill="#25282F"
      fill-opacity="0.8"
      id="selected-bottom" />
   <path
      d="M40 24C37.8783 24 35.8434 23.1571 34.3431 21.6569C32.8429 20.1566 32 18.1217 32 16L40 16L40 24Z"
-     fill="#2E343E"
+     fill="#25282F"
      fill-opacity="0.8"
      id="selected-bottomleft" />
   <rect
@@ -106,7 +106,7 @@
      y="8"
      width="8"
      height="8"
-     fill="#2E343E"
+     fill="#25282F"
      fill-opacity="0.8"
      id="selected-right" />
   <rect
@@ -114,32 +114,32 @@
      y="8"
      width="8"
      height="8"
-     fill="#2E343E"
+     fill="#25282F"
      fill-opacity="0.8"
-     id="rect28" />
+     id="selected-center" />
   <rect
      x="32"
      y="8"
      width="8"
      height="8"
-     fill="#2E343E"
+     fill="#25282F"
      fill-opacity="0.8"
      id="selected-left" />
   <path
      d="M48 0C50.1217 2.53014e-08 52.1566 0.842852 53.6568 2.34314C55.1571 3.84342 56 5.87825 56 7.99998L48 8V0Z"
-     fill="#2E343E"
+     fill="#25282F"
      fill-opacity="0.8"
      id="selected-topright" />
   <rect
      x="40"
      width="8"
      height="8"
-     fill="#2E343E"
+     fill="#25282F"
      fill-opacity="0.8"
      id="selected-top" />
   <path
      d="M32 8C32 5.87827 32.8429 3.84344 34.3431 2.34315C35.8434 0.84286 37.8783 4.02159e-06 40 0L40 8L32 8Z"
-     fill="#2E343E"
+     fill="#25282F"
      fill-opacity="0.8"
      id="selected-topleft" />
   <path
